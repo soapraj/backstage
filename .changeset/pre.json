@@ -210,5 +210,15 @@
     "@backstage/plugin-user-settings-backend": "0.4.0",
     "@backstage/plugin-user-settings-common": "0.1.0"
   },
-  "changesets": []
+  "changesets": [
+    "add-masked-and-hidden-option",
+    "create-app-1771577189",
+    "dependabot-d2ec7e9",
+    "fix-frontend-feature-compat",
+    "fluffy-owls-act",
+    "long-hairs-throw",
+    "polite-singers-lead",
+    "renovate-8b1c21e",
+    "swift-flowers-grin"
+  ]
 }

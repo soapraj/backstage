@@ -1,5 +1,24 @@
 # @backstage/cli
 
+## 0.35.5-next.0
+
+### Patch Changes
+
+- 6738cf0: build(deps): bump `minimatch` from 9.0.5 to 10.2.1
+- 092b41f: Updated dependency `webpack` to `~5.105.0`.
+- Updated dependencies
+  - @backstage/eslint-plugin@0.2.2-next.0
+  - @backstage/integration@1.21.0-next.0
+  - @backstage/catalog-model@1.7.6
+  - @backstage/cli-common@0.1.18
+  - @backstage/cli-node@0.2.18
+  - @backstage/config@1.3.6
+  - @backstage/config-loader@1.10.8
+  - @backstage/errors@1.2.7
+  - @backstage/module-federation-common@0.1.0
+  - @backstage/release-manifests@0.0.13
+  - @backstage/types@1.2.2
+
 ## 0.35.4
 
 ### Patch Changes

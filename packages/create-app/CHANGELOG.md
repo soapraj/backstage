@@ -1,5 +1,13 @@
 # @backstage/create-app
 
+## 0.7.10-next.0
+
+### Patch Changes
+
+- Bumped create-app version.
+- Updated dependencies
+  - @backstage/cli-common@0.1.18
+
 ## 0.7.9
 
 ### Patch Changes
